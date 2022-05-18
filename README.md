@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @likvipavel
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Linux, Docker, Kubernetes 
-- 💞️ I’m looking to collaborate on IT
-- 📫 How to reach me : likvipavel@bk.ru
